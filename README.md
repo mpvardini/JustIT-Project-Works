@@ -1,9 +1,11 @@
 # Wealth-of-Nations
-Overview 
+# Overview 
 THE WEALTH OF NATIONS. A visual report that shows the data in the  form of charts and maps using Excel,  Tableau to the cliens requirements.
-Scope 
+
+# Scope 
 Data Visualization for "The Wealth of Nations" of Top 20 Rank countries.
-Findings 
+
+# Findings 
 1.Detail study about Data Protection Policy is a statement that sets out how organisation protects personal data.
 2.Why these policies need to be adhered to while using this data?
 3.Why it is important to be aware of these rules as a data analyst?
@@ -11,7 +13,8 @@ Findings
 5.Data visualization charts for GDP, Life expectancy, Smartphones usages for Top 20 rank
 countries and created by using blind friendly.
 6.All the Charts shows results in Clear view and easily readable.
-Conclusion
+
+# Conclusion
  Studied about List of Policies and Procedures:
 • Computer Misuse Act 1990
 • Government technology standards and guidance
