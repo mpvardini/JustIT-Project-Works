@@ -6,18 +6,18 @@ THE WEALTH OF NATIONS. A visual report that shows the data in the  form of chart
 Data Visualization for "The Wealth of Nations" of Top 20 Rank countries.
 
 # Findings 
-1.Detail study about Data Protection Policy that sets out how organisation protects personal data.
+1. Detail study about Data Protection Policy that sets out how organisation protects personal data.
 
-2.Why these policies need to be adhered to while using this data?
+2. Why these policies need to be adhered to while using this data?
 
-3.Why it is important to be aware of these rules as a data analyst?
+3. Why it is important to be aware of these rules as a data analyst?
 
-4.Report shows the table and chart for "Top 20 rank coutries" of GDP Value using Microsoft Excel.
+4. Report shows the table and chart for "Top 20 rank coutries" of GDP Value using Microsoft Excel.
 
-5.Data visualization charts for GDP, Life expectancy, Smartphones usages for Top 20 rank
+5. Data visualization charts for GDP, Life expectancy, Smartphones usages for Top 20 rank
 countries and created by using blind friendly.
 
-6.All the Charts shows results in Clear view and easily readable.
+6. All the Charts shows results in Clear view and easily readable.
 
 # Conclusion
  Studied about List of Policies and Procedures:
