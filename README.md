@@ -1,3 +1,3 @@
 # JustIT-Project-Works
 # Project 1 - THE WEALTH OF NATIONS.
-A visual report that shows the data in the  form of charts and maps using Excel,  Tableau to the cliens requirements.
+A visual report that shows the data in the form of tables, charts and maps using Excel and Tableau.
